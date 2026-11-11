@@ -2,7 +2,9 @@ import React from 'react';
 
 const Right: React.FC = () => {
     return <>
-       Right Babaji
+        <div className='right-part'>
+            Right Babaji
+        </div>
     </>
 }
 
